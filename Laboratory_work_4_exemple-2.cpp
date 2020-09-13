@@ -9,7 +9,7 @@ int main()
         while (inner >= 1)
             std::cout << inner-- << " ";
 
-        // Вставляем символ новой строки в конце каждого ряда
+       
         std::cout << "\n";
         --outer;
     }
